@@ -1,5 +1,5 @@
 //Question 9: 
-// WAP to find the number of trailing zeros in a given integer .
+//  WAP to find the number of trailing zeros in a given integer .
 
 
 #include<stdio.h>
@@ -15,4 +15,3 @@ void main()
      }
        printf("Trailling Zero=%d",count);
 }
-
