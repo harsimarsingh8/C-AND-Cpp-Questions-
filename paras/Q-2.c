@@ -20,3 +20,4 @@ void main()
   else
     printf("Not power of two");
 }
+   
