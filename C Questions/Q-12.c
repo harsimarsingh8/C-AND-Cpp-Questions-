@@ -5,7 +5,7 @@
 #include<stdio.h> 
 void main()
 {
-	 int i,j,k;
+	 int i,j,k; 
 	 printf("Enter the number i and j: ");
 	 scanf("%d %d",&i,&j);
 	 i=i^j;
