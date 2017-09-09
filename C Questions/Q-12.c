@@ -1,6 +1,6 @@
 //Question 12: 
 // WAP to swap two numbers using bitwise XOR Operator.
-
+   
 
 #include<stdio.h> 
 void main()
