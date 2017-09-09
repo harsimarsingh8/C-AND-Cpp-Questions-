@@ -2,7 +2,7 @@
 // WAP to swap two numbers using bitwise XOR Operator.
 
 
-#include<stdio.h>
+#include<stdio.h> 
 void main()
 {
 	 int i,j,k;
