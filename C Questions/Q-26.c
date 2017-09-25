@@ -34,7 +34,7 @@ void merge(int left,int mid,int right,int *arr)
         else
         {
             arr[left]=temp2[j];
-            j++;
+            j++; 
             left++;
         }
     }
