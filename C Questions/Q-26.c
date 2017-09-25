@@ -7,7 +7,7 @@ void merge(int left,int mid,int right,int *arr)
     int rt=mid+1;
     int l=mid+1-left;
     int r=right-mid;
-
+ 
     int temp1[l],temp2[r];
     int i=0,j=0;
     while(i<l)
