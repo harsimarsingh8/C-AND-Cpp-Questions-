@@ -7,7 +7,7 @@
 #include<string.h>
 using namespace std;
 class person
-{	char name[20];
+{	char name[20];   
 	int birth;
 	float h;
 	public:
