@@ -2,7 +2,7 @@
 //  Create a class 'COMPLEX' to hold a complex number. Write a friend 
 //  function to add two complex numbers. Write a main function to add two COMPLEX objects.
 
-
+ 
 #include<iostream>
 using namespace std;
 class complex
