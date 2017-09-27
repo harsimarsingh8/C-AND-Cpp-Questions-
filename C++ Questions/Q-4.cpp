@@ -1,6 +1,6 @@
 //  Question 4: 
-//  Create a base class called 'SHAPE' having two data members of type double member //
-//  function get data( ) to initialize base class data members pure virtual member func tion
+//  Create a base class called 'SHAPE' having two data members of type double member 
+//  function get data( ) to initialize base class data members pure virtual member func tion 
 //  display area ( ) to compute and display the area of the geometrical object. Derive two 
 //  specific classes 'TRIANGLE' and 'RECTANGLE' from the base class. Using these three classes 
 //  design a program that will accept dimension of a triangle / rectangle interactively and display the area.
