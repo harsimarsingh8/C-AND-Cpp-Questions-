@@ -16,7 +16,7 @@ class Time
 	Time(int hour,int min,int sec)  
  	{	h=hour;
 		m=min;
-		s=sec;
+		s=sec; 
  	}
 	void show()
 	{	cout<<h<<":"<<m<<":"<<s<<endl;
