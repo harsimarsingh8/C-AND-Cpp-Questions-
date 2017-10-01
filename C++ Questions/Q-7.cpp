@@ -6,7 +6,7 @@
 
 
 #include<iostream>
-using namespace std;
+using namespace std; 
 class Time
 {	int h,m,s;
 	public:
