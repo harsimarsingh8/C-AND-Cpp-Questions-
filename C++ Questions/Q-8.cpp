@@ -11,7 +11,7 @@ class counter
 	counter(int c){count=c;}
 	void operator ++(int)
 	{	count++;
-	}
+	} 
 	void operator --(int)
 	{	count--;
 	}
