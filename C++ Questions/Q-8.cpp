@@ -3,7 +3,7 @@
 //  counter class object. The counter class should have one data member as count.
 
 
-#include<iostream>
+#include<iostream> 
 using namespace std;
 class counter
 {	int count;
