@@ -8,7 +8,7 @@
 using namespace std;
 class complex  
 {	int a,b;  
- 	public:  
+ 	public:   
  	void read()  
  	{	cout<<"Enter the real part: ";
 		cin>>a;

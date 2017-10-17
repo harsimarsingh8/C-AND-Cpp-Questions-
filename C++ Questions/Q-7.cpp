@@ -6,7 +6,7 @@
 
 
 #include<iostream>
-using namespace std;
+using namespace std; 
 class Time
 {	int h,m,s;
 	public:
@@ -16,7 +16,7 @@ class Time
 	Time(int hour,int min,int sec)  
  	{	h=hour;
 		m=min;
-		s=sec;
+		s=sec; 
  	}
 	void show()
 	{	cout<<h<<":"<<m<<":"<<s<<endl;

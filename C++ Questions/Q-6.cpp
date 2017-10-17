@@ -5,7 +5,7 @@
 
 #include<iostream>
 #include<string.h>
-using namespace std;
+using namespace std; 
 class data
 {	char d[20];
 	static int c;

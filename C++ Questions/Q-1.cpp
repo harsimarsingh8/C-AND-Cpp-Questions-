@@ -4,7 +4,7 @@
 #include<iostream>
 using namespace std;
 void swap1(int a,int b)
-{	int t=a;
+{	int t=a; 
 	a=b;
 	b=t; 
 	cout<<"After swapping : Value of a : "<<a<<"\nValue of b :"<<b;
