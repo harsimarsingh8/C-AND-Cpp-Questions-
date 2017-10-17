@@ -1,6 +1,5 @@
 /*AIM: To find sum of series (1+(1+2)+(1+2+3)+..)*/
-/*NAME: NITISH GOYAL */
-/*AIM: 1510991422 */
+
 #include<stdio.h>
 int as(int n)
 {
