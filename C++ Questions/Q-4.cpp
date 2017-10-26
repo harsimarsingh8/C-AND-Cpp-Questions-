@@ -9,7 +9,7 @@
 #include<iostream>
 using namespace std;
 class shape
-{
+{ 
 	protected:
 	double x, y;
 	public:
